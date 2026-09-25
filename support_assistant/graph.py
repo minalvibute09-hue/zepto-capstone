@@ -15,7 +15,6 @@ POLICY_KEYWORDS = [
     "refund",
     "membership",
     "tracking",
-    "track",
     "cancel",
     "gift card",
     "support hours",
